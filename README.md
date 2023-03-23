@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @sesiii
 - 👀 I’m interested in machine learning and deep learning
 - 🌱 I’m currently persueing Btech in Computer science and Engineering at IIT Kharagpur 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin
+-
+- 📫 How to reach me linkedin: www.linkedin.com/in/
+dadi-sasank-kumar-71693a252
+
 - 
 
 <!---
