@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sesiii
 - 👀 I’m not interested in machine learning and deep learning
 - 🌱 I’m currently persuing Btech in Computer science and Engineering at IIT Kharagpur
-- Also thankyou for flirtng with me, as you came here to know me.
+- Also thankyou for flirtng with me, as you came here to know me. HAHA just kidding
 - 
 -
 - 📫 How to reach me linkedin: www.linkedin.com/in/
