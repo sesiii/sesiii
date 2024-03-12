@@ -2,8 +2,8 @@
 - 👀 I’m not interested in machine learning and deep learning
 - 🌱 I’m currently persuing Btech in Computer science and Engineering at IIT Kharagpur
 
-- 📫 How to reach me linkedin: www.linkedin.com/in/
-dadi-sasank-kumar-71693a252
+- 📫 How to reach me linkedin: www.linkedin.com/in/sesidadi
+
 
 - 
 
