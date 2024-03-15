@@ -5,7 +5,6 @@
 - 📫 How to reach me linkedin: www.linkedin.com/in/sesidadi
 
 
-- 
 
 <!---
 sesiii/sesiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
