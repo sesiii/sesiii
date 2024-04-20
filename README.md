@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />](www.linkedin.com/in/sesidadi)
+[<img align="left" alt="LinkedIn" width="22px" src="www.linkedin.com/in/sesidadi" />](www.linkedin.com/in/sesidadi)
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />](https://github.com/sesiii)
 <br />
 
