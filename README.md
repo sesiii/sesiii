@@ -6,9 +6,10 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+  
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="www.linkedin.com/in/sesidadi" />](www.linkedin.com/in/sesidadi)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/sesidadi)
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />](https://github.com/sesiii)
 <br />
 
