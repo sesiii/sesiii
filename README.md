@@ -1,3 +1,4 @@
+
 # Hi there, I'm Sesidadi! 👋
 ### I'm a Computer Science and Engineering Student at IIT Kharagpur 🎓
 
@@ -6,7 +7,6 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-  
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/sesidadi)
@@ -25,6 +25,14 @@
 <br />
 <br />
 
+### Projects:
+
+- [Project 1: Description of Project 1](#)
+- [Project 2: Description of Project 2](#)
+- [Project 3: Description of Project 3](#)
+- [Project 4: Description of Project 4](#)
+- [Project 5: Description of Project 5](#)
+  
 ### 📊 GitHub Stats:
 
 <img align="left" alt="Sesidadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&hide_border=true" />
