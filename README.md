@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sesiii
-- 👀 I’m not interested in machine learning and deep learning
+- 👀 Hello
 - 🌱 I’m currently persuing Btech in Computer science and Engineering at IIT Kharagpur
 
 - 📫 How to reach me linkedin: www.linkedin.com/in/sesidadi
