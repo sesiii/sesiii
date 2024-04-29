@@ -24,14 +24,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com/)
 <br />
 <br />
-
-### Projects:
-
-- [Project 1: Description of Project 1](#)
-- [Project 2: Description of Project 2](#)
-- [Project 3: Description of Project 3](#)
-- [Project 4: Description of Project 4](#)
-- [Project 5: Description of Project 5](#)
   
 ### 📊 GitHub Stats:
 
