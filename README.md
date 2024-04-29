@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on exciting projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -24,7 +24,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com/)
 <br />
 <br />
-  
+
 ### 📊 GitHub Stats:
 
 ![Sesidadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&hide_border=true&theme=dark)
