@@ -25,9 +25,4 @@
 <br />
 <br />
 
-### 📊 GitHub Stats:
-
-![Sesidadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&hide_border=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sesiii&layout=compact&hide_border=true&theme=dark)
 
