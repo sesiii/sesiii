@@ -1,6 +1,6 @@
 
 # Hi there, I'm Sesidadi! 👋
-### I'm a Computer Science and Engineering Student at IIT Kharagpur 🎓
+### I'm a Computer Science undergrad at IIT Kharagpur 🎓
 
 - 🔭 I’m currently working on exciting projects
 - 🌱 I’m currently learning everything 🤣
