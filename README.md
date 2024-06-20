@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there 👋
 ### I'm a Computer Science undergrad at IIT Kharagpur 🎓
 
 - 🔭 I’m currently working on exciting projects
