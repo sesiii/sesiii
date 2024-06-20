@@ -1,5 +1,5 @@
 
-# Hi there, I'm Sesidadi! 👋
+# Hi there, I'm who i am 👋
 ### I'm a Computer Science undergrad at IIT Kharagpur 🎓
 
 - 🔭 I’m currently working on exciting projects
