@@ -1,5 +1,4 @@
-
-# Hi there, I'm who i am 👋
+# Hi there, I'm [Your Name] 👋
 ### I'm a Computer Science undergrad at IIT Kharagpur 🎓
 
 - 🔭 I’m currently working on exciting projects
@@ -25,10 +24,10 @@
 <br />
 <br />
 
-
 ### 📊 GitHub Stats:
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&theme=dark)](https://github.com/sesiii)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sesiii&layout=compact&hide_border=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&theme=dark" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesiii&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
+</p>
