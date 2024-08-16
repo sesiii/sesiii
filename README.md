@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sasank
+# Hi there! 👋 
 
 ### 🎓 Computer Science Undergrad at IIT Kharagpur 
 
