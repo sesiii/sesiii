@@ -43,7 +43,7 @@ jobs:
 
           # Commit settings
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # Custom commit message
-          TARGET_BRANCH: main # Branch to commit changes to
+          TARGET_BRANCH: master # Branch to commit changes to
           TARGET_PATH: README.md # Path to the README file
           COMMITTER_NAME: GitHubActionBot # Name of the committer
           COMMITTER_EMAIL: action-bot@github.com # Email of the committer
