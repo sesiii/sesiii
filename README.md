@@ -40,28 +40,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesiii&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-</p>
-
----
-[![Work Stats Readme](https://github.com/sesiii/sesiii/actions/workflows/waka-readme.yml/badge.svg?branch=main)](https://github.com/sesiii/sesiii/actions/workflows/waka-readme.yml)
-
-### ⚡ Contribution Graph:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesiii&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=sesiii&theme=radical" alt="Contribution Graph" />
-</p>
-
----
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -73,3 +51,26 @@ Text       13 mins         ██▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesiii&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+</p>
+
+---
+[![Work Stats Readme](https://github.com/sesiii/sesiii/actions/workflows/main.yml/badge.svg)](https://github.com/sesiii/sesiii/actions/workflows/main.yml)
+
+### ⚡ Contribution Graph:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesiii&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sesiii&theme=radical" alt="Contribution Graph" />
+</p>
+
+---
+
