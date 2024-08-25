@@ -1,57 +1,16 @@
-name: Waka Readme
+name: Work Stats Readme
 
 on:
-  # Trigger the workflow manually
   workflow_dispatch:
-  # Schedule the workflow to run daily at 12 AM UTC (5:30 AM IST)
   schedule:
-    - cron: "0 0 * * *"
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
 
 jobs:
   update-readme:
-    name: Update README with WakaTime Stats
+    name: Update this repo's README
     runs-on: ubuntu-latest
-
     steps:
-      # Checkout the repository
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-
-      # Run WakaTime Readme action
-      - name: Update WakaTime Metrics in README
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Optional if updating a profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Required
-
-          # Meta settings
-          API_BASE_URL: https://wakatime.com/api # Optional
-          REPOSITORY: sesiii/sesiii # Optional
-
-          # Content settings
-          SHOW_TITLE: true # Show title in README
-          SECTION_NAME: waka # The section name in your README
-          BLOCKS: -> # The separator between different sections
-          CODE_LANG: rust # The language used to display the metrics
-          TIME_RANGE: all_time # Time range for metrics (e.g., last_7_days, last_30_days)
-          LANG_COUNT: 10 # Number of languages to display
-          SHOW_TIME: true # Show the amount of time spent coding
-          SHOW_TOTAL: true # Show the total coding time
-          SHOW_MASKED_TIME: false # Whether to show masked time or not
-          STOP_AT_OTHER: true # Stop counting after 'Other' languages
-          IGNORED_LANGUAGES: YAML JSON TOML # Languages to ignore
-
-          # Commit settings
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # Custom commit message
-          TARGET_BRANCH: master # Branch to commit changes to
-          TARGET_PATH: README.md # Path to the README file
-          COMMITTER_NAME: GitHubActionBot # Name of the committer
-          COMMITTER_EMAIL: action-bot@github.com # Email of the committer
-          AUTHOR_NAME: pipinstallpip# Name of the author of the commit
-          AUTHOR_EMAIL: sesidadi.nssc@gmail.com# Email of the author
-
-      # Push changes back to the repository
-      - name: Push Changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
