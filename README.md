@@ -50,7 +50,7 @@
 </p>
 
 ---
-[![Work Stats Readme](https://github.com/sesiii/sesiii/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/sesiii/sesiii/actions/workflows/waka-readme.yml)
+[![Work Stats Readme](https://github.com/sesiii/sesiii/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/sesiii/sesiii/actions/workflows/main.yml)
 
 ### ⚡ Contribution Graph:
 
