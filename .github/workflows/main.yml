@@ -17,4 +17,5 @@ jobs:
           SHOW_TITLE: true
           SHOW_TIME: true
           LANG_COUNT: 6
+          SHOW_TOTAL: true 
           
