@@ -11,30 +11,29 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      # Run WakaTime Readme action
       - name: Update WakaTime Metrics in README
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Required
-
-          # Display settings
-          LANG_COUNT: 20 # Show all languages you work on, adjust the count as needed
+          LANG_COUNT: 20 # Show a broader range of languages
           SHOW_TITLE: true # Show the title in the README
           SHOW_TIME: true # Show the time spent coding
           SHOW_TOTAL: true # Show the total coding time
           SHOW_MASKED_TIME: false # Do not show masked time
           STOP_AT_OTHER: false # Continue showing languages after 'Other'
           SHOW_UPDATE_TIMESTAMP: true # Display the last update time
-          COMMIT_MESSAGE: "Updated WakaTime metrics in README" # Commit message
-          TARGET_BRANCH: master # Target branch for the changes
-          TARGET_PATH: README.md # Path to the README file
+          COMMIT_MESSAGE: "Updated WakaTime metrics and last run time in README"
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
 
-      # Push changes back to the repository
-      - name: Push Changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
+      - name: Add Last Workflow Run Time
+        run: |
+          echo "Last Updated: $(date -u)" >> README.md
+          git config --local user.name "GitHubActionBot"
+          git config --local user.email "action-bot@github.com"
+          git add README.md
+          git commit -m "Added last update timestamp"
+          git push
