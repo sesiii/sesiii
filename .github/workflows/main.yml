@@ -29,6 +29,9 @@ jobs:
           TARGET_BRANCH: master
           TARGET_PATH: README.md
 
+      - name: Pull Latest Changes
+        run: git pull origin main
+
       - name: Add Last Workflow Run Time
         run: |
           echo "Last Updated: $(date -u)" >> README.md
@@ -36,4 +39,4 @@ jobs:
           git config --local user.email "action-bot@github.com"
           git add README.md
           git commit -m "Added last update timestamp"
-          git push
+          git push origin main
