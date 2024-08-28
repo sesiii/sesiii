@@ -31,16 +31,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2024 - To: 27 August 2024
+From: 21 August 2024 - To: 28 August 2024
 
-Total Time: 12 hrs 10 mins
+Total Time: 19 hrs 32 mins
 
-C          5 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.56 %
-Other      4 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
-Python     4 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-V          50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-HTML       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Markdown   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Python     6 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
+C          5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.98 %
+Other      4 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
+V          3 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Markdown   2 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+HTML       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
