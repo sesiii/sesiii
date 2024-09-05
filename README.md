@@ -47,15 +47,7 @@ C++          23 mins         ▒░░░░░░░░░░░░░░░░
 ---
 <figure><embed src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg"></embed></figure>
 ---
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesiii&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-</p>
-
----
 [![Work Stats Readme](https://github.com/sesiii/sesiii/actions/workflows/main.yml/badge.svg)](https://github.com/sesiii/sesiii/actions/workflows/main.yml)
 
 ### ⚡ Contribution Graph:
