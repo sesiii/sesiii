@@ -52,11 +52,6 @@ Text         15 mins         ▒░░░░░░░░░░░░░░░░
 
 ### ⚡ Contribution Graph:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesiii&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=sesiii&theme=radical" alt="Contribution Graph" />
-</p>
-
+<img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical" alt="GitHub Streak" />
 ---
 
