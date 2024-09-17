@@ -31,15 +31,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Total Time: 6 hrs 36 mins
+Total Time: 6 hrs 20 mins
 
-Markdown   4 hrs 14 mins   ████████████████░░░░░░░░░   63.98 %
-Python     1 hr 44 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-Bash       36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-CSV        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown   4 hrs 14 mins   ████████████████▓░░░░░░░░   66.73 %
+Python     1 hr 28 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
+Bash       36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+CSV        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
