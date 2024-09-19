@@ -31,13 +31,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 18 September 2024
+From: 12 September 2024 - To: 19 September 2024
 
-Total Time: 6 hrs 20 mins
+Total Time: 6 hrs 19 mins
 
-Markdown   4 hrs 14 mins   ████████████████▓░░░░░░░░   66.73 %
-Python     1 hr 28 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
-Bash       36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+Markdown   4 hrs 14 mins   ████████████████▓░░░░░░░░   66.99 %
+Python     1 hr 26 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
+Bash       36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
 CSV        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
