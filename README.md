@@ -5,7 +5,7 @@
 ---
 
 🔭 **Currently Working On:**  
-- Cutting-edge projects in AI, finance, and automation  
+- Cutting-edge projects in AI, and automation  
 - Open-source contributions to impactful repositories
 
 🌱 **Always Learning:**  
@@ -18,7 +18,7 @@
 
 💡 **2024 Goals:**  
 - Make significant contributions to open-source projects  
-- Expand my knowledge in AI and work on research publications
+- Expand my knowledge in AI and work on research publications 
 
 ---
 
