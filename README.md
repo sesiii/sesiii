@@ -31,16 +31,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
-Total Time: 13 hrs 53 mins
+Total Time: 11 hrs 35 mins
 
-C          6 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   33.87 %
-Other      6 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.05 %
-Text       3 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-V          2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-Makefile   1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-C++        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+C          5 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.86 %
+Text       3 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
+V          2 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
+Makefile   59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Other      39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+C++        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
