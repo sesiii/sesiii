@@ -1,7 +1,6 @@
 # Hi there! 👋
 
 ### 🎓 Computer Science Undergrad at IIT Kharagpur
-# Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -9,25 +8,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sesiii/count.svg" />
 </p>
----
 
-🔭 **Currently Working On:**  
-- Cutting-edge projects in AI, and automation  
-- Open-source contributions to impactful repositories
-
-🌱 **Always Learning:**  
-- Diving deep into advanced algorithms, LLMs, and dynamic programming  
-- Exploring the latest in software engineering tools and practices
-
-👯 **Looking to Collaborate:**  
-- With developers on innovative AI/ML projects  
-- On open-source projects that make a difference
-
-💡 **2024 Goals:**  
-- Make significant contributions to open-source projects  
-- Expand my knowledge in AI and work on research publications 
-
----
 
 ### Connect with me:
 
