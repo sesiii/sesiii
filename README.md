@@ -9,7 +9,7 @@
   <img src="https://profile-counter.glitch.me/sesiii/count.svg" />
 </p>
 
-
+<figure><embed src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg"></embed></figure>
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesidadi)  
@@ -30,9 +30,7 @@ Markdown   0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
----
-<figure><embed src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg"></embed></figure>
----
+
 
 [![Work Stats Readme](https://github.com/sesiii/sesiii/actions/workflows/main.yml/badge.svg)](https://github.com/sesiii/sesiii/actions/workflows/main.yml)
 
