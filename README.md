@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2024 - To: 13 November 2024
+From: 07 November 2024 - To: 14 November 2024
 
-Total Time: 20 hrs 6 mins
+Total Time: 20 hrs 50 mins
 
-V             7 hrs 20 mins   ███████░░░░░░░░░░░░░░░░░░   28.11 %
-Other         5 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
-Makefile      3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-Python        3 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Assembly      1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-C             1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+V             8 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 %
+Other         6 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+Makefile      3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+Python        2 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Assembly      1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+C             1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
