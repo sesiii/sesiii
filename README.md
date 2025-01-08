@@ -18,12 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 01 January 2025 - To: 08 January 2025
 
-Total Time: 1 hr 11 mins
+Total Time: 2 hrs 27 mins
 
-C     57 mins         ████████████████████░░░░░   80.23 %
-C++   14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+C       1 hr 5 mins     ███████████░░░░░░░░░░░░░░   44.50 %
+Text    1 hr 5 mins     ███████████░░░░░░░░░░░░░░   44.11 %
+C++     14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+INI     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
