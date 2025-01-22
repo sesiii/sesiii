@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2025 - To: 20 January 2025
+From: 14 January 2025 - To: 21 January 2025
 
-Total Time: 4 hrs 8 mins
+Total Time: 7 hrs 36 mins
 
-C          3 hrs 6 mins    ██████████████████▓░░░░░░   74.96 %
-Makefile   38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Python     20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C          5 hrs 48 mins   ███████████████████░░░░░░   76.34 %
+Text       46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+Makefile   38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Python     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
