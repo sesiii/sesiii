@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2025 - To: 25 January 2025
+From: 19 January 2025 - To: 26 January 2025
 
-Total Time: 15 hrs 52 mins
+Total Time: 16 hrs 48 mins
 
-Text       6 hrs 58 mins   ██████████▒░░░░░░░░░░░░░░   41.87 %
-C          6 hrs 25 mins   █████████▓░░░░░░░░░░░░░░░   38.55 %
-SQL        1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-Other      46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Python     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Makefile   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Text       7 hrs           ██████████░░░░░░░░░░░░░░░   39.74 %
+C          6 hrs 25 mins   █████████░░░░░░░░░░░░░░░░   36.44 %
+SQL        2 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Other      49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Makefile   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Python     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
