@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2025 - To: 02 February 2025
+From: 27 January 2025 - To: 03 February 2025
 
-Total Time: 25 hrs 38 mins
+Total Time: 27 hrs 58 mins
 
-C           15 hrs 45 mins  █████████████▓░░░░░░░░░░░   55.06 %
-Bash        3 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Other       2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-C++         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Python      1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Text        1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+C           16 hrs 33 mins  █████████████░░░░░░░░░░░░   52.16 %
+Other       3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Bash        3 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+C++         2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Java        2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Text        1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
