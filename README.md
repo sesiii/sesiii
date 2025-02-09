@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2025 - To: 08 February 2025
+From: 02 February 2025 - To: 09 February 2025
 
-Total Time: 11 hrs 50 mins
+Total Time: 14 hrs 1 min
 
-C           4 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
-Other       3 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   23.48 %
-Bash        3 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
-Java        2 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-Text        1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-C++         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+C          11 hrs 16 mins  ██████████████████▓░░░░░░   74.60 %
+Java       2 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Other      1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Makefile   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+C++        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Text       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
