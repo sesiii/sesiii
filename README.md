@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 25 February 2025
+From: 19 February 2025 - To: 26 February 2025
 
-Total Time: 12 hrs 27 mins
+Total Time: 17 hrs 24 mins
 
-C++        9 hrs 38 mins   ███████████████████▒░░░░░   77.23 %
-Text       1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Python     54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-C          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+C++        14 hrs 35 mins  █████████████████████░░░░   83.69 %
+Text       1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Python     54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+C          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
