@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2025 - To: 07 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
-Total Time: 47 hrs 5 mins
+Total Time: 42 hrs 24 mins
 
-Python     18 hrs 1 min    █████████▒░░░░░░░░░░░░░░░   37.65 %
-HTML       13 hrs 25 mins  ███████░░░░░░░░░░░░░░░░░░   28.04 %
-Text       8 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-C          6 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Other      46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-C++        41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+C          12 hrs 32 mins  ███████▒░░░░░░░░░░░░░░░░░   29.04 %
+Python     10 hrs 58 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
+Text       8 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   20.65 %
+HTML       8 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Makefile   51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Other      45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
