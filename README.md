@@ -43,15 +43,6 @@ Markdown      13 mins         ▒░░░░░░░░░░░░░░░�
 
 ---
 
-### 📌 Work Stats
-<p align="center">
-  <a href="https://github.com/sesiii/sesiii/actions/workflows/main.yml">
-    <img src="https://github.com/sesiii/sesiii/actions/workflows/main.yml/badge.svg" alt="Work Stats Badge"/>
-  </a>
-</p>
-
----
-
 ### ⚡ Contribution Graph
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical&hide_border=true&card_width=500" alt="GitHub Streak"/>
