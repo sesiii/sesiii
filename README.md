@@ -60,11 +60,11 @@ Markdown      13 mins         ▒░░░░░░░░░░░░░░░�
 ### ✨ About Me
 
 - 🔭 I’m passionate about coding, problem-solving, and building impactful projects.
-- 🌱 Currently exploring advanced algorithms and systems programming.
-- ⚡ Fun fact: I love optimizing code as much as I love a good cup of chai!
+- 🌱 Currently exploring CS fundamentals.
+- ⚡ Fun fact: I love optimizing code as much as I love optimizing code
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding GIF"/>
 </p>
-```
+
 
