@@ -1,13 +1,24 @@
 # Hi there! 👋
 
-### 🎓 Computer Science Undergrad at IIT Kharagpur
-<figure><embed src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg"></embed></figure>
+## 🚀 Computer Science Undergrad at IIT Kharagpur
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesidadi)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sesiii)
+<p align="center">
+  <img src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg" alt="WakaTime Stats" width="80%"/>
+</p>
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sesidadi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sesiii" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
-<!--START_SECTION:waka-->
+
+### 📊 Weekly Development Breakdown
 
 ```txt
 From: 25 March 2025 - To: 01 April 2025
@@ -22,18 +33,25 @@ C++           28 mins         ▒░░░░░░░░░░░░░░░�
 Markdown      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
-<!--END_SECTION:waka-->
-
-
-[![Work Stats Readme](https://github.com/sesiii/sesiii/actions/workflows/main.yml/badge.svg)](https://github.com/sesiii/sesiii/actions/workflows/main.yml)
-
-### ⚡ Contribution Graph:
-
-<img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical" alt="GitHub Streak" />
 ---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sesiii/count.svg" />
+### 📌 Work Stats
+<p align="center">
+  <a href="https://github.com/sesiii/sesiii/actions/workflows/main.yml">
+    <img src="https://github.com/sesiii/sesiii/actions/workflows/main.yml/badge.svg" alt="Work Stats Badge"/>
+  </a>
 </p>
 
+---
+
+### ⚡ Contribution Graph
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sesiii/count.svg"/>
+</p>
