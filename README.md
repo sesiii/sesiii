@@ -2,10 +2,6 @@
 
 ## 🚀 Computer Science Undergrad at IIT Kharagpur
 
-<p align="center">
-  <img src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg" alt="WakaTime Stats" width="80%"/>
-</p>
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sesidadi" target="_blank">
