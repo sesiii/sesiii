@@ -2,8 +2,6 @@
 
 ### 🎓 Computer Science Undergrad at IIT Kharagpur
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello macha">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sesiii/count.svg" />
