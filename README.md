@@ -1,3 +1,6 @@
+The README.md file you provided seems to have some formatting issues. Specifically, the code block containing the weekly development breakdown and other sections appear to be incorrectly formatted. Below is the corrected version of your README.md content:
+
+```markdown
 # Hi there! 👋
 
 ## I’m a Computer Science Undergrad at IIT Kharagpur  
@@ -33,17 +36,47 @@ Python        1 hr 32 mins    █▓░░░░░░░░░░░░░░�
 Makefile      1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79%
 C++           28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97%
 Markdown      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96%
-<p align="center"> <img src="https://progress-bar.dev/65/?title=C&width=200&color=ff69b4" alt="C Progress"/> <img src="https://progress-bar.dev/18/?title=Text&width=200&color=00ccff" alt="Text Progress"/> <img src="https://progress-bar.dev/6/?title=Python&width=200&color=00ff99" alt="Python Progress"/> </p>
-📌 Work Stats
-<p align="center"> <a href="https://github.com/sesiii/sesiii/actions/workflows/main.yml"> <img src="https://github.com/sesiii/sesiii/actions/workflows/main.yml/badge.svg" alt="Work Stats Badge"/> </a> </p>
-⚡ Contribution Graph
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical&hide_border=true&card_width=500" alt="GitHub Streak"/> </p>
-👀 Visitor Count
-<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=sesiii&left_color=black&right_color=ff69b4" alt="Visitor Count"/> </p>
-✨ About Me
+```
 
-    🔭 I’m passionate about coding, problem-solving, and building impactful projects.
-    🌱 Currently exploring advanced algorithms and systems programming.
-    ⚡ Fun fact: I love optimizing code as much as I love a good cup of chai!
+<p align="center">
+  <img src="https://progress-bar.dev/65/?title=C&width=200&color=ff69b4" alt="C Progress"/>
+  <img src="https://progress-bar.dev/18/?title=Text&width=200&color=00ccff" alt="Text Progress"/>
+</p>
 
-<p align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding GIF"/> </p> ```
+---
+
+### 📌 Work Stats
+<p align="center">
+  <a href="https://github.com/sesiii/sesiii/actions/workflows/main.yml">
+    <img src="https://github.com/sesiii/sesiii/actions/workflows/main.yml/badge.svg" alt="Work Stats Badge"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Contribution Graph
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical&hide_border=true&card_width=500" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sesiii&left_color=black&right_color=ff69b4" alt="Visitor Count"/>
+</p>
+
+---
+
+### ✨ About Me
+
+- 🔭 I’m passionate about coding, problem-solving, and building impactful projects.
+- 🌱 Currently exploring advanced algorithms and systems programming.
+- ⚡ Fun fact: I love optimizing code as much as I love a good cup of chai!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding GIF"/>
+</p>
+```
+
+This should resolve any formatting issues and provide a clearer presentation of your README.md content.
