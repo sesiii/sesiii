@@ -42,12 +42,26 @@ Markdown      13 mins         ▒░░░░░░░░░░░░░░░�
 
 ### ⚡ Contribution Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical" alt="GitHub Streak" style="animation: pulse 2s infinite;"/>
 </p>
 
 ---
 
 ### 👀 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sesiii/count.svg"/>
+  <img src="https://profile-counter.glitch.me/sesiii/count.svg" style="animation: bounce 1.5s infinite;"/>
 </p>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-10px); }
+  60% { transform: translateY(-5px); }
+}
+</style>
