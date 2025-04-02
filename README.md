@@ -2,6 +2,10 @@
 
 ## 🚀 Computer Science Undergrad at IIT Kharagpur
 
+<p align="center">
+  <img src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg" alt="WakaTime Stats" width="80%"/>
+</p>
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sesidadi" target="_blank">
@@ -42,26 +46,12 @@ Markdown      13 mins         ▒░░░░░░░░░░░░░░░�
 
 ### ⚡ Contribution Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical" alt="GitHub Streak" style="animation: pulse 2s infinite;"/>
+  <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 👀 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sesiii/count.svg" style="animation: bounce 1.5s infinite;"/>
+  <img src="https://profile-counter.glitch.me/sesiii/count.svg"/>
 </p>
-
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-  40% { transform: translateY(-10px); }
-  60% { transform: translateY(-5px); }
-}
-</style>
