@@ -1,6 +1,4 @@
-The README.md file you provided seems to have some formatting issues. Specifically, the code block containing the weekly development breakdown and other sections appear to be incorrectly formatted. Below is the corrected version of your README.md content:
 
-```markdown
 # Hi there! 👋
 
 ## I’m a Computer Science Undergrad at IIT Kharagpur  
@@ -79,4 +77,3 @@ Markdown      13 mins         ▒░░░░░░░░░░░░░░░�
 </p>
 ```
 
-This should resolve any formatting issues and provide a clearer presentation of your README.md content.
