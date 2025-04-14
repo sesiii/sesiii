@@ -5,7 +5,7 @@
 
 <figure><embed src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg"></embed></figure>
 <img src="https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&lines=Hi+there!+%F0%9F%91%8B;Computer+Science+Undergrad+at+IIT+Kharagpur)](https://github.com/sesiii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesidadi)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sesiii)
 
