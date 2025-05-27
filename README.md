@@ -13,13 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2025 - To: 26 May 2025
+From: 20 May 2025 - To: 27 May 2025
 
-Total Time: 7 hrs 28 mins
+Total Time: 13 hrs 1 min
 
-C++      7 hrs 26 mins   █████████████████████████   99.70 %
-JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C++      7 hrs 29 mins   ██████████████▒░░░░░░░░░░   57.48 %
+Python   5 hrs 31 mins   ██████████▓░░░░░░░░░░░░░░   42.35 %
+JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
