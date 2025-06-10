@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2025 - To: 09 June 2025
+From: 03 June 2025 - To: 10 June 2025
 
-Total Time: 4 hrs 25 mins
+Total Time: 4 hrs 24 mins
 
-C++   4 hrs 25 mins   █████████████████████████   100.00 %
+C++   4 hrs 24 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
