@@ -1,4 +1,4 @@
-# Dadi Sasank Kumar, 4th year CS UG,
+Dadi Sasank Kumar, 4th year CS UG,
 Indian Institute of Technology, Kharagpur
 
 
