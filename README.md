@@ -17,12 +17,12 @@ Indian Institute of Technology, Kharagpur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 23 June 2025
+From: 17 June 2025 - To: 24 June 2025
 
-Total Time: 5 hrs 59 mins
+Total Time: 5 hrs 54 mins
 
-C++        5 hrs 50 mins   ████████████████████████▒   97.26 %
-Python     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+C++        5 hrs 44 mins   ████████████████████████▒   97.21 %
+Python     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
