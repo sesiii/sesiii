@@ -17,15 +17,11 @@ Indian Institute of Technology, Kharagpur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2025 - To: 03 July 2025
+From: 27 June 2025 - To: 04 July 2025
 
-Total Time: 1 hr
+Total Time: 0 secs
 
-Ruby       38 mins         ███████████████▓░░░░░░░░░   62.21 %
-Markdown   22 mins         █████████░░░░░░░░░░░░░░░░   36.54 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
