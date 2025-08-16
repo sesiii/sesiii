@@ -18,7 +18,7 @@ AI Research @ Ericsson -  working on Multi Agent Systems
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2025 - To: 15 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
 Total Time: 8 hrs 22 mins
 
