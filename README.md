@@ -18,16 +18,16 @@ AI Research @ Ericsson -  working on Multi Agent Systems
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Total Time: 27 hrs 6 mins
+Total Time: 24 hrs 55 mins
 
-C++          14 hrs 58 mins  █████████████▒░░░░░░░░░░░   52.96 %
-Python       10 hrs 19 mins  █████████░░░░░░░░░░░░░░░░   36.50 %
-Git Config   1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Other        1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python       12 hrs 9 mins   ███████████▒░░░░░░░░░░░░░   45.27 %
+C++          10 hrs 57 mins  ██████████▒░░░░░░░░░░░░░░   40.80 %
+Other        1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Git Config   1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
