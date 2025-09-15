@@ -1,19 +1,7 @@
-Welcome to My GitHub Profile!
+Dadi Sasank Kumar, 4th year CS UG,
+Indian Institute of Technology, Kharagpur
 
-I'm Dadi Sasank Kumar, a 4th-year Computer Science undergrad at IIT Kharagpur, passionate about pushing the boundaries of technology through innovation and code. Previously,I have been an AI Research Intern at Ericsson Research, India, working on heterogenous LLM powered multi Agent systems. Thanks for stopping by! 🚀
-
-
-
-🌟 About Me
-
-_________
-🎓 4th year B.Tech student in Computer Science, Indian Institute of Technology, Kharagpur
-
-💻 I code in python, c, c++
-
-
-
-🌍 Always excited to connect, collaborate, and create impactful solutions
+AI Research @ Ericsson -  working on Multi Agent Systems
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&lines=Hi+there!+%F0%9F%91%8B;I+am+a+Computer+Science+Undergrad+at+IIT+Kharagpur;Thankyou+for+visiting+my+github+profile)](https://github.com/sesiii)
 
@@ -30,13 +18,11 @@ _________
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2025 - To: 14 September 2025
+From: 02 July 2025 - To: 09 July 2025
 
-Total Time: 7 hrs 17 mins
+Total Time: 0 secs
 
-Python   7 hrs 12 mins   ████████████████████████▒   97.97 %
-C++      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Other    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
@@ -48,4 +34,3 @@ Other    4 mins          ▒░░░░░░░░░░░░░░░░░�
 
 <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical" alt="GitHub Streak" />
 ---
-___
