@@ -1,24 +1,15 @@
 Welcome to My GitHub Profile!
 
-I'm Dadi Sasank Kumar, a 4th-year Computer Science undergrad at IIT Kharagpur, passionate about pushing the boundaries of technology through innovation and code. Currently, I'm diving deep into Multi-Agent Systems as part of my AI Research at Ericsson. Thanks for stopping by! 🚀
+I'm Dadi Sasank Kumar, a 4th-year Computer Science undergrad at IIT Kharagpur, passionate about pushing the boundaries of technology through innovation and code. Previously,I have been an AI Research Intern at Ericsson Research, India, working on heterogenous LLM powered multi Agent systems. Thanks for stopping by! 🚀
 
 
 
 🌟 About Me
 
+_________
+🎓 4th year B.Tech student in Computer Science, Indian Institute of Technology, Kharagpur
 
-
-
-
-🎓 B.Tech in Computer Science, Indian Institute of Technology, Kharagpur
-
-
-
-🔬 AI Research Enthusiast working on Multi-Agent Systems at Ericsson
-
-
-
-💻 Proficient in Python, C++, and exploring cutting-edge tech
+💻 I code in python, c, c++
 
 
 
@@ -57,3 +48,4 @@ Other    4 mins          ▒░░░░░░░░░░░░░░░░░�
 
 <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical" alt="GitHub Streak" />
 ---
+___
