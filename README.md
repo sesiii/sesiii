@@ -18,11 +18,12 @@ AI Research @ Ericsson -  working on Multi Agent Systems
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2025 - To: 21 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-Total Time: 6 hrs 22 mins
+Total Time: 6 hrs 21 mins
 
-Python     6 hrs 22 mins   █████████████████████████   99.78 %
+Python     6 hrs 10 mins   ████████████████████████▒   97.05 %
+C++        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
