@@ -19,12 +19,12 @@ Prev: AI Research Intern @ Ericsson -  working on Multi Agent Systems
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2025 - To: 04 November 2025
+From: 29 October 2025 - To: 05 November 2025
 
-Total Time: 6 hrs 57 mins
+Total Time: 7 hrs 43 mins
 
-Python   5 hrs 56 mins   █████████████████████▒░░░   85.49 %
-C++      1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Python   6 hrs 40 mins   █████████████████████▓░░░   86.53 %
+C++      1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
 ```
 
 <!--END_SECTION:waka-->
