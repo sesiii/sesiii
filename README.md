@@ -19,7 +19,7 @@ Prev: AI Research Intern @ Ericsson -  working on Multi Agent Systems
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
 Total Time: 0 secs
 
