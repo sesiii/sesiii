@@ -19,11 +19,13 @@ Prev: AI Research Intern @ Ericsson -  working on Multi Agent Systems
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2026 - To: 27 January 2026
+From: 21 January 2026 - To: 28 January 2026
 
-Total Time: 0 secs
+Total Time: 24 mins
 
-Python   0 secs          █████████████████████████   100.00 %
+Python     19 mins         █████████████████▓░░░░░░░   70.84 %
+Markdown   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+Other      3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
 ```
 
 <!--END_SECTION:waka-->
