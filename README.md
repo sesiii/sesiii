@@ -1,8 +1,8 @@
 <div align="center">
 
   <a href="https://github.com/sesiii">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Sasank;Incoming+Security+Researcher+%40+Microsoft;CS+Undergrad+%40+IIT+Kharagpur;Exploring+AI+Agents+%26+Cybersecurity" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Sasank;Incoming+Security+Researcher+%40+Microsoft;CS+Undergrad+%40+IIT+Kharagpur;Exploring+AI+Agents+%26+Cybersecurity" alt="Typing SVG" />
+</a>
 
   <p>
     <a href="https://www.linkedin.com/in/sesidadi">
