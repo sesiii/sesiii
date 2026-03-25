@@ -49,13 +49,6 @@
 
 ---
 
-## 📊 Developer Dashboard
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical&hide_border=true" />
-
-</div>
 
 ---
 
