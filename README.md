@@ -49,17 +49,7 @@
 
 ---
 
-### ⏳ Weekly Coding Activity
+## ⏳ Weekly Coding Activity
 
-```txt
-From: 06 February 2026 - To: 13 February 2026
-
-Total Time: 9 hrs 2 mins
-
-Python   9 hrs 2 mins    █████████████████████████   99.94 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-
-<div align="center">
-<i>Thanks for visiting!</i>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
