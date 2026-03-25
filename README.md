@@ -61,6 +61,17 @@
 
 ## ⏳ Weekly Coding Activity
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 2 hrs 6 mins
+
+Python      1 hr 13 mins          █████████████░░░░░░░░░░░░   52.56 %
+Makefile    22 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+JSON        14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+Other       13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Markdown    10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
