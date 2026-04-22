@@ -58,7 +58,7 @@
 ```txt
 Total Time: 0 secs
 
-Makefile   0 secs                █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
