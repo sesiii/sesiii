@@ -21,7 +21,7 @@
 
 - 🎓 BTech in Computer Science & Engineering at **IIT Kharagpur**.
 - 💼 **Incoming Security Researcher** at **Microsoft**.
-- 🔬 **Previously:** AI Research Intern at **Ericsson** (HeteroLLM Multi-Agent Systems).
+- 🔬 **Previously:** AI Research Intern at **Ericsson**.
 - 🔭 **Interests:** Agentic AI, Ethical Hacking, and System Security.
 - ♟️ **Hobbies:** Stargazing, Chess, and playing the Harmonica.
 
