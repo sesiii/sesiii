@@ -10,9 +10,9 @@
 *   **Agentic AI:** Multi-Agent Systems (MAS), LLM Orchestration, and Model Context Protocol (MCP).
 *   **Development:** Building secure, scalable systems and exploring low-level networking.
 
-### 💼 Experience & Projects
+### 💼 Experience 
 *   **Incoming Security Researcher @ Microsoft** (Hyderabad)
-*   **AI Research Intern @ Ericsson Research** (MAS & LLM Selection Matrices)
+*   **AI Research Intern @ Ericsson Research** 
 *   **Bachelor's Thesis:** Deep Learning for harmful brain activity detection.
 
 ---
