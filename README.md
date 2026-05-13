@@ -1,106 +1,163 @@
-# <!--- Heading --->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Dadi+Sasank+Kumar+👋;CS+Grad+%40+IIT+Kharagpur;Incoming+Security+Researcher+%40+Microsoft;Building+secure%2C+agentic+systems..." alt="Typing SVG" />
-</p>
+<div align="center">
 
-# <!--- Summary Banner --->
-<p align="center">
-<a href="https://linkedin.com/in/sesidadi">
-<img src="https://img.shields.io/badge/LinkedIn-Dadi--Sasank--Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://github.com/sesiii">
-<img src="https://img.shields.io/badge/GitHub-sesiii-black?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-</p>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██████╗  █████╗ ██████╗ ██╗    ███████╗ █████╗ ███████╗   ║
+║   ██╔══██╗██╔══██╗██╔══██╗██║    ██╔════╝██╔══██╗██╔════╝   ║
+║   ██║  ██║███████║██║  ██║██║    ███████╗███████║███████╗   ║
+║   ██║  ██║██╔══██║██║  ██║██║    ╚════██║██╔══██║╚════██║   ║
+║   ██████╔╝██║  ██║██████╔╝██║    ███████║██║  ██║███████║   ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝    ╚══════╝╚═╝  ╚═╝╚══════╝  ║
+║                                                               ║
+║              DADI  SASANK  KUMAR  //  @sesiii                 ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
+</div>
 
-# <!--- Main Content --->
-## 👨‍💻 About Me
+<div align="center">
 
-<table width="100%" align="center">
-<tr>
-<td align="center" width="60%">
-<p align="left">
-<b>Final Year Computer Science Undergraduate</b> from the prestigious Indian Institute of Technology, Kharagpur. Soon moving to Hyderabad to join the Windows Defender (Dexperts) team at <b>Microsoft</b> as a <b>Security Researcher</b>.
-</p>
-<p align="left">
-My primary interests lie at the intersection of Systems, Security, and modern AI orchestration. I specialize in identifying and mitigating novel threats in low-level systems while leveraging multi-agent systems to automate security operations.
-</p>
-</td>
-<td align="center" width="40%">
-<img src="https://media.giphy.com/media/26hirEPeOnhSCyToQ/giphy.gif" alt="Coding GIF" width="80%">
-</td>
-</tr>
-</table>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Security+Researcher+%40+Microsoft+%5BWin+Defender%5D;IIT+Kharagpur+%7C+CS+%2725;Multi-Agent+Systems+%7C+LLM+Orchestration;Systems+Security+%7C+Network+Protocols;%3E+whoami+%3A%3A+building+secure+agentic+systems_)
+
+</div>
 
 ---
 
-## 🛠️ Technical Expertise
+```bash
+$ cat profile.txt
+```
 
-### 🛡️ Security Research
-<p align="left">
-<img src="https://img.shields.io/badge/Agentic%20Security-36BCF7?style=flat-square&logo=securityscorecard&logoColor=white" />
-<img src="https://img.shields.io/badge/Systems%20Security-000?style=flat-square&logo=windowsterminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Network%20Protocols%20(TCP/UDP%2FQUIC%2FBGP)-777?style=flat-square&logo=wireshark&logoColor=white" />
-</p>
-
-### 🤖 Agentic AI & Development
-<p align="left">
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems%20(MAS)-FF6F61?style=flat-square&logo=codetriage&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20Orchestration-Green?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-blueviolet?style=flat-square&logo=protocol.ai&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Learning-blueviolet?style=flat-square&logo=pytorch&logoColor=white" />
-</p>
+```
+NAME     :  Dadi Sasank Kumar
+ROLE     :  Incoming Security Researcher @ Microsoft (Windows Defender · Dexperts)
+EDUCATION:  B.Tech Computer Science · IIT Kharagpur · 2025
+LOCATION :  Hyderabad, India
+FOCUS    :  Systems Security · Agentic AI · Multi-Agent Systems · Network Protocols
+STATUS   :  [● ACTIVE] Open to research collaborations
+```
 
 ---
 
-## 💼 Professional Experience
+```bash
+$ cat experience.log
+```
 
-*   **Incoming Security Researcher @ Microsoft** (Hyderabad, India) — Windows Defender / Dexperts Team.
-*   **AI Research Intern @ Ericsson Research** — Worked on Multi-Agent Systems and dynamic LLM Selection Matrices.
-*   **Bachelor's Thesis:** Designed deep learning models for classification of harmful brain activity detection.
+```
+[2025 → NOW] ──────────────────────────────────────────────────────────
+  Security Researcher · Microsoft · Windows Defender / Dexperts Team
+  ├── Hyderabad, India
+  ├── Identifying & mitigating novel threats in low-level systems
+  └── Focus: agentic threat surfaces, Windows internals
 
----
+[2024] ────────────────────────────────────────────────────────────────
+  AI Research Intern · Ericsson Research
+  ├── Multi-Agent Systems design and architecture
+  └── Dynamic LLM Selection Matrix for orchestration pipelines
 
-# <!--- Stats Section --->
-## 📊 My GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sasank's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesiii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
-### ⚡ Weekly Coding Activity (WakaTime)
-<!--START_SECTION:waka-->
-<p align="center">
-<img src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg" alt="WakaTime Stats" width="80%">
-</p>
-<!--END_SECTION:waka-->
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sesiii/sesiii/main/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+[2025 · THESIS] ───────────────────────────────────────────────────────
+  B.Tech Thesis · IIT Kharagpur
+  ├── Deep learning models for harmful brain activity classification
+  └── Signal processing + neural architecture design
+```
 
 ---
 
-# <!--- Connections --->
-<p align="center">
-<b>Let's build something secure together.</b><br>
-Feel free to connect on LinkedIn or reach out via email.
-</p>
-<p align="center">
-<a href="https://linkedin.com/in/sesidadi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:sasankkumar.dadi.edu@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://github.com/sesiii">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-</p>
+```bash
+$ ls -la skills/
+```
+
+**`>> Security`**
+
+![Agentic Security](https://img.shields.io/badge/Agentic_Security-00FFCC?style=flat-square&logoColor=black)
+![Systems Security](https://img.shields.io/badge/Systems_Security-00FFCC?style=flat-square&logoColor=black)
+![Windows Internals](https://img.shields.io/badge/Windows_Internals-00FFCC?style=flat-square&logoColor=black)
+![Network Protocols](https://img.shields.io/badge/TCP%2FUDP%2FQUIC%2FBGP-00FFCC?style=flat-square&logoColor=black)
+
+**`>> Agentic AI`**
+
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-FF2D78?style=flat-square&logoColor=white)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-FF2D78?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-FF2D78?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF2D78?style=flat-square&logoColor=white)
+
+**`>> Languages & Frameworks`**
+
+![Python](https://img.shields.io/badge/Python-B8FF57?style=flat-square&logoColor=black)
+![C](https://img.shields.io/badge/C-B8FF57?style=flat-square&logoColor=black)
+![C++](https://img.shields.io/badge/C++-B8FF57?style=flat-square&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-B8FF57?style=flat-square&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-B8FF57?style=flat-square&logoColor=black)
+
+---
+
+```bash
+$ gh stats --user sesiii
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFCC&icon_color=FF2D78&text_color=8b949e&count_private=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesiii&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFCC&text_color=8b949e" height="160px"/>
+
+</div>
+
+---
+
+```bash
+$ cat contribution_activity.svg
+```
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/sesiii/sesiii/main/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+```bash
+$ wakatime --report weekly
+```
+
+<div align="center">
+
+<img src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg" width="75%" alt="WakaTime Stats"/>
+
+</div>
+
+---
+
+```bash
+$ ping sasank --connect
+```
+
+```
+PING sasank.dev ... host reachable.
+Packets: Sent=3  Received=3  Lost=0 (0% loss)
+
+> Ready to collaborate on:
+  ├── Security research & vulnerability analysis
+  ├── Agentic AI system design
+  └── Multi-agent orchestration projects
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sesidadi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sesidadi)
+[![GitHub](https://img.shields.io/badge/GitHub-sesiii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sesiii)
+[![Email](https://img.shields.io/badge/Email-sasankkumar.dadi.edu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasankkumar.dadi.edu@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// EOF · last updated 2025 · @sesiii ▊
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=sesiii&color=00FFCC&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
