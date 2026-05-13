@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ Technical Focus
-*   **Security Research:** Adversarial AI, Network Protocols (TCP/UDP, QUIC, BGP), and Systems Security.
+*   **Security Research:** Agentic Security, Network Protocols (TCP/UDP, QUIC, BGP), and Systems Security.
 *   **Agentic AI:** Multi-Agent Systems (MAS), LLM Orchestration, and Model Context Protocol (MCP).
 *   **Development:** Building secure, scalable systems and exploring low-level networking.
 
