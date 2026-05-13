@@ -1,66 +1,36 @@
-<div align="center">
+# Hi there! I'm Dadi Sasank Kumar 👋 
 
-  <a href="https://github.com/sesiii">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Dadi+Sasank+Kumar;Incoming+Security+Researcher+%40+Microsoft;CS+Undergrad+%40+IIT+Kharagpur;Exploring+AI+Agents+%26+Cybersecurity" alt="Typing SVG" />
-</a>
-
-  <p>
-    <a href="https://www.linkedin.com/in/sesidadi">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/sesiii">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-   
-  </p>
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 BTech in Computer Science & Engineering at **IIT Kharagpur**.
-- 💼 **Incoming Security Researcher** at **Microsoft**.
-- 🔬 **Previously:** AI Research Intern at **Ericsson**.
-- 🔭 **Interests:** Agentic AI, Ethical Hacking, and System Security.
-- ♟️ **Hobbies:** Stargazing, Chess, and playing the Harmonica.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sesiii&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <figure><embed src="https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg"></embed></figure>
-</div>
-
----
+**CS Grad @ IIT Kharagpur | Incoming Security Researcher @ Microsoft**
 
 
 ---
 
-## ⏳ Weekly Coding Activity
+### 🛠️ Technical Focus
+*   **Security Research:** Adversarial AI, Network Protocols (TCP/UDP, QUIC, BGP), and Systems Security.
+*   **Agentic AI:** Multi-Agent Systems (MAS), LLM Orchestration, and Model Context Protocol (MCP).
+*   **Development:** Building secure, scalable systems and exploring low-level networking.
+
+### 💼 Experience & Projects
+*   **Incoming Security Researcher @ Microsoft** (Hyderabad)
+*   **AI Research Intern @ Ericsson Research** (MAS & LLM Selection Matrices)
+*   **Bachelor's Thesis:** Deep Learning for harmful brain activity detection.
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sesiii&show_icons=true&theme=radical&hide_border=true" alt="Sasank's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesiii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+### ⚡ Weekly Activity (WakaTime)
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
+![WakaTime](https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg)
 <!--END_SECTION:waka-->
 
 ---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesidadi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sesiii)
