@@ -26,7 +26,13 @@
 
 ### ⚡ Weekly Activity (WakaTime)
 <!--START_SECTION:waka-->
-![WakaTime](https://wakatime.com/share/@81d5e6c4-c575-43e6-9a9e-85ed25517f53/42cf003a-18dd-42ef-bded-df01146821f2.svg)
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
