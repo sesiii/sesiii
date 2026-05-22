@@ -28,10 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 mins
+Total Time: 0 secs
 
-HTML   20 mins               ████████████████████████▓   98.57 %
-INI    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
