@@ -11,7 +11,7 @@
 *   **Development:** Building secure, scalable systems and exploring low-level networking.
 
 ### 💼 Experience & Projects
-*   **Incoming Security Researcher @ Microsoft** (Hyderabad)
+*   **Security Researcher @ Microsoft** (Hyderabad)
 *   **AI Research Intern @ Ericsson Research** (MAS & LLM Selection Matrices)
 *   **Bachelor's Thesis:** Deep Learning for harmful brain activity detection.
 
