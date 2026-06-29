@@ -1,6 +1,6 @@
 # Hi there! I'm Dadi Sasank Kumar 👋 
 
-**CS Grad @ IIT Kharagpur | Incoming Security Researcher @ Microsoft**
+**Security Researcher @ Microsoft | CS Grad @ IIT Kharagpur**
 
 
 ---
